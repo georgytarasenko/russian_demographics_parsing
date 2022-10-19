@@ -1,1 +1,3 @@
-# russian_demographics_parsing
+# Russian Demographics Parsing
+
+Code to parse the Demoscope website with Russian historical demographic statistics.
